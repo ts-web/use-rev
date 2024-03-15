@@ -1,0 +1,27 @@
+{
+  "name": "use-rev",
+  "version": "1.0.0",
+  "author": "https://github.com/ts-web/",
+  "license": "ISC",
+  "main": "lib/useRev.js",
+  "description": "Revision counter react hook",
+  "keywords": [
+    "react hook",
+    "revision counter"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepack": "npm run build"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^17 || ^16"
+  },
+  "devDependencies": {
+    "@types/react": "^18",
+    "react": "^18",
+    "typescript": "^5"
+  },
+  "files": [
+    "lib"
+  ]
+}
