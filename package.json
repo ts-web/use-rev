@@ -9,6 +9,10 @@
     "react hook",
     "revision counter"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ts-web/use-rev.git"
+  },
   "scripts": {
     "build": "tsc",
     "prepack": "npm run build"
