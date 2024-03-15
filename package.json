@@ -1,6 +1,6 @@
 {
   "name": "use-rev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "https://github.com/ts-web/",
   "license": "ISC",
   "main": "lib/useRev.js",
