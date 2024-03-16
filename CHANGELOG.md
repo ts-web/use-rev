@@ -1,3 +1,6 @@
+# 1.0.3
+- The react peerDependency is now `*`.
+
 # 1.0.2
 - Add package.json repository field.
 
