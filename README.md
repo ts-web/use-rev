@@ -1,3 +1,6 @@
+[![npm version](https://img.shields.io/npm/v/use-rev.svg)](https://www.npmjs.com/package/use-rev)
+[![Downloads](https://img.shields.io/npm/dm/use-rev.svg)](https://www.npmjs.com/package/use-rev)
+
 # use-rev
 
 A revision counter React hook.
