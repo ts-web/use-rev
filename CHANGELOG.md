@@ -1,3 +1,6 @@
+# 1.0.4
+- Republish
+
 # 1.0.3
 - The react peerDependency is now `*`.
 
