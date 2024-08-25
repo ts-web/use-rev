@@ -1,6 +1,6 @@
 {
   "name": "use-rev",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Revision counter react hook",
   "license": "MIT",
   "author": "https://github.com/ts-web/",
