@@ -1,3 +1,6 @@
+# 1.0.5
+- No changes -- GH Actions publish
+
 # 1.0.4
 - Republish
 
